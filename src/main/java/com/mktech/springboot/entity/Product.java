@@ -38,8 +38,5 @@ public class Product {
 	private LocalDateTime dateCreated;
 	@UpdateTimestamp
 	private LocalDateTime dateUpdated;
-	
-	
-	
 
 }
